@@ -32,7 +32,7 @@ disable404 = true
     [params.profile]
         name = "Nick Venner"
         tagline = "Climate Change Activist, Amature Engineer & Web Developer"
-        avatar = "profile.jpg"
+        avatar = "smallprofile.jpg"
 
     # Contact section
     [params.contact]
@@ -126,9 +126,9 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
+        position = "Juliana V. US Plantiff"
         dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
+        company = "Our Children's Trust, Eugene Oregon"
         details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
 
         [[params.jobs.list]]
@@ -151,7 +151,7 @@ disable404 = true
 
     # Skills section
     [params.skills]
-        enable = true
+        enable = false
         icon = "fa-rocket"
         title = "Skills & Proficiency"
 
