@@ -24,7 +24,7 @@ disable404 = true
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
 
-    styles = "styles.css"
+    styles = "styles-2.css"
 
 # Sidebar sections
 
@@ -32,7 +32,7 @@ disable404 = true
     [params.profile]
         name = "Nick Venner"
         tagline = "Climate Change Activist, Amature Engineer & Web Developer"
-        avatar = "profile.png"
+        avatar = "profile.jpg"
 
     # Contact section
     [params.contact]
@@ -41,20 +41,20 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: yourname@email.com"
-        title = "john.doe@website.com"
+        url = "mailto: nvenner@protonmail.ch"
+        title = "nvenner@protonmail.ch"
 
         [[params.contact.list]]
         class = "phone"
         icon = "fa-phone"
-        url = "tel:+1234567890"
-        title = "+1234567890"
+        url = "tel:+7207726231"
+        title = "+7207726231"
 
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//portfoliosite.com"
-        title = "portfoliosite.com"
+        url = "//eitau.xyz"
+        title = "eitau.xyz"
 
         [[params.contact.list]]
         class = "linkedin"
@@ -65,8 +65,8 @@ disable404 = true
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/username"
-        title = "github.com/username"
+        url = "//github.com/cappuccinocosmico"
+        title = "github.com/cappuccinocosmico"
 
         [[params.contact.list]]
         class = "twitter"
@@ -84,11 +84,6 @@ disable404 = true
         college = "University of London"
         dates = "2006 - 2010"
 
-        [[params.education.list]]
-        degree = "BSc in Applied Mathematics"
-        college = "Bristol University"
-        dates = "2007 - 2011"
-
     # Languages section
     [params.language]
         enable = true
@@ -98,13 +93,6 @@ disable404 = true
         language = "English"
         level = "Native"
 
-        [[params.language.list]]
-        language = "French"
-        level = "Professional"
-
-        [[params.language.list]]
-        language = "Russian"
-        level = "Professional"
 
     # Interests section
     [params.interests]
@@ -112,13 +100,13 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Climbing"
+        interest = "Hiking"
 
         [[params.interests.list]]
-        interest = "Snowboarding"
+        interest = "Mathmatics"
 
         [[params.interests.list]]
-        interest = "Cooking"
+        interest = "Dungeons & Dragons"
 
 # Main body sections
 
@@ -149,12 +137,6 @@ disable404 = true
         company = "Google, London"
         details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
 
-        [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
-
     # Projects section
     [params.projects]
         enable = true
@@ -167,26 +149,6 @@ disable404 = true
         url = "https://github.com/aerohub/hugrid"
         tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
 
-        [[params.projects.list]]
-        title = "Simple FAQ Theme for Hugo"
-        url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = "Simple FAQ Theme for Hugo. You may use this theme for building very simple FAQs or note lists."
-
-        [[params.projects.list]]
-        title = "Hugo Identity"
-        url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Little profile/card-style template for Hugo."
-
-        [[params.projects.list]]
-        title = "Orbit"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
-        tagline = "Hugo Resume/CV Theme for Developers."
-
-        [[params.projects.list]]
-        title = "Me"
-        url = "https://github.com/aerohub/hugo-me-theme"
-        tagline = "A simple responsive Hugo theme for personal site."
-
     # Skills section
     [params.skills]
         enable = true
@@ -194,11 +156,11 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
+        skill = "Logic and General Problem Solving"
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Javascript & jQuery"
+        skill = "Engineering"
         level = "98%"
 
         [[params.skills.list]]
