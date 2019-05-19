@@ -31,7 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Nick Venner"
-        tagline = "Climate Change Activist, Amature Engineer & Web Developer"
+        tagline = "Climate Change Activist, Amatur Engineer & Web Developer"
         avatar = "smallprofile.jpg"
 
     # Contact section
@@ -56,23 +56,23 @@ disable404 = true
         url = "//eitau.xyz"
         title = "eitau.xyz"
 
-        [[params.contact.list]]
-        class = "linkedin"
-        icon = "fa-linkedin"
-        url = "//linkedin.com/in/johndoe"
-        title = "linkedin.com/in/johndoe"
+#       [[params.contact.list]]
+#       class = "linkedin"
+#       icon = "fa-linkedin"
+#       url = "//linkedin.com/in/johndoe"
+#       title = "linkedin.com/in/johndoe"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
         url = "//github.com/cappuccinocosmico"
-        title = "github.com/cappuccinocosmico"
-
-        [[params.contact.list]]
-        class = "twitter"
-        icon = "fa-twitter"
-        url = "//twitter.com/username"
-        title = "@twittername"
+        title = "github"
+#
+#       [[params.contact.list]]
+#       class = "twitter"
+#       icon = "fa-twitter"
+#       url = "//twitter.com/username"
+#       title = "@twittername"
 
     # Education section
     [params.education]
@@ -80,7 +80,7 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
+        degree = "Diploma"
         college = "University of London"
         dates = "2006 - 2010"
 
@@ -132,9 +132,9 @@ disable404 = true
         details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
 
         [[params.jobs.list]]
-        position = "Senior Software Engineer"
-        dates = "2014 - 2015"
-        company = "Google, London"
+        position = "Bear Creek High School"
+        dates = "2017 - 2019"
+        company = "Jefferson County Public Schools"
         details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
 
     # Projects section
@@ -160,12 +160,12 @@ disable404 = true
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Engineering"
-        level = "98%"
+        skill = "Algebra and Calculus"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
+        skill = "Engineering and CAD"
+        level = "80%"
 
         [[params.skills.list]]
         skill = "HTML5 & CSS"
