@@ -168,16 +168,16 @@ disable404 = true
         level = "80%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
+        skill = "Python and Object Oriented Programming"
         level = "95%"
 
-        [[params.skills.list]]
-        skill = "Ruby on Rails"
-        level = "75%"
+#       [[params.skills.list]]
+#       skill = "Ruby on Rails"
+#       level = "75%"
 
-        [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
+#       [[params.skills.list]]
+#       skill = "Sketch & Photoshop"
+#       level = "60%"
 
     # Footer section
 
