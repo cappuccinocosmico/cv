@@ -81,8 +81,8 @@ disable404 = true
 
         [[params.education.list]]
         degree = "Diploma"
-        college = "University of London"
-        dates = "2006 - 2010"
+        college = "Bear Creek High School"
+        dates = "2015 - 2019"
 
     # Languages section
     [params.language]
